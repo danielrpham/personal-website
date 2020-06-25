@@ -28,14 +28,14 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-  # hackerrank: your_username
+  hackerrank: danielrpham
   # instagram: your_username
   # keybase: your_username
-  linkedin: daniel_r_pham
+  linkedin: daniel-r-pham
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -55,6 +55,6 @@ topics:
 
   - name: Buisiness Intelligence and Strategy
     #web_url: https://github.com/topics/sass
-    #mage_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+    #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
 
 theme: jekyll-theme-tactile
